@@ -3,6 +3,14 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Generalist;Graphic+Designer;Logical+Thinker" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <p><strong>swabah.</strong></p>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revxshafi&show_icons=true&theme=great-gatsby&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revxshafi&layout=compact&theme=great-gatsby" />
 </div>
