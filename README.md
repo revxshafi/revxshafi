@@ -7,7 +7,6 @@
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  <p><strong>swabah.</strong></p>
 </div>
 
 <div align="center">
@@ -17,4 +16,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=revxshafi" alt="Profile Views" />
+  <p><strong>Reversal!.</strong></p>
 </div>
