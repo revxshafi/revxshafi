@@ -16,5 +16,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=revxshafi" alt="Profile Views" />
-  <p><strong>Reversal!.</strong></p>
+  <p><strong>Reversal!</strong></p>
 </div>
