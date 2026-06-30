@@ -28,5 +28,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=revxshafi" alt="Profile Views" />
-  <p><strong>Reversal!</strong></p>
+  <p><strong>Ignore my name, I put it as a joke</strong></p>
 </div>
