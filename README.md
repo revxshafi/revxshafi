@@ -8,8 +8,7 @@
   <samp>
     $ cat about.txt<br>
     → creative thinker — i'm afraid I could never achieve the thing I want with my current skills. still, i am always learning so that i can one day. <br>
-    → currently building — whatever seems interesting to me.
-  </samp>
+    → currently building — whatever seems interesting to me. </samp>
 </p>
 <br>
 <div align="center">
