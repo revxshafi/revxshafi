@@ -11,7 +11,6 @@
     → currently building — whatever seems interesting to me.
   </samp>
 </p>
-
 <br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
