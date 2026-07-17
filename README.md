@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Reversal&fontAlignY=40&textBg=false&reversal=false&desc=I%20code%20random%20projects%20for%20fun,%20for%20people%20to%20use." alt="Reversal" width="1000" />
 </div>
-<h1 align="center">Reversal</h1>
+
 <p align="center"><samp>software generalist · product builder · ux enthusiast · creative writer · dystems thinker"</samp></p>
 
 <p align="center">
